@@ -20,4 +20,22 @@ odd Number
   
 Enter a number:68
 Even Number
+
+find even or odd without conditional statements
+#include <stdio.h>
+
+int main()
+{
+    char *arr[]={"even","odd"};
+    int n,r;
+    printf("Enter number:");
+    scanf("%d",&n);
+    r=n%2;
+    printf("Given number is %s",arr[r]);
+    return 0;
+}
+
+output:
+Enter number:2
+Given number is even 
 */
