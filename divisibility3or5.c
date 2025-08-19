@@ -20,3 +20,4 @@ int main(){
 /*output
 Enter number:23
 Number is not divisible by 3 and 5
+*/
