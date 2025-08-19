@@ -128,3 +128,27 @@ ________________________________________________________________________________
   3.finding alpha numeric
   4.armstrong
   5.fibonacci
+  _____________________________________________________________________________________________________________________________________________________
+Date:19-08-2025
+// Online C compiler to run C program online
+#include <stdio.h>
+int main() {
+    printf("\nResult :%s",(10%5==0)?"true":"false");
+    return 0;
+}
+output:
+Result :true
+___________________________________________________________
+                                                        Control flow 
+        Conditional                                         Looping                                Jumping
+        if                                                while                                  break
+        if-else                                            do-while                                continue
+        if-else ladder                                    for                                       goto 
+        nested if-else                                                                            return
+        switch
+
+
+
+  Ascii-
+  A-65  ->    Z-90
+  a-97  ->    z-122
