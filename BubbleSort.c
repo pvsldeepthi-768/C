@@ -3,7 +3,7 @@
 
 int main() {
     // Write C code here
-    int i,j,n,a[10],temp;
+    int i,n,a[10],temp;
     printf("Enter array size:");
     scanf("%d",&n);
     printf("\nEnter elements:");
@@ -14,13 +14,11 @@ int main() {
     for(i=0;i<n;i++){
         printf("%d\t",a[i]);
     }
-    for(i=0;i<n;i++){
-        for(j=i+1;j<n;j++){
-            if(a[i]>a[j]){
+    for(i=0;i<n-1;i++){
+       if(a[i]>a[i+1]){
                 temp=a[i];
-                a[i]=a[j];
-                a[j]=temp;
-            }
+                a[i]=a[i+1];
+                a[i+1]=temp;
         }
     }
     printf("\nSorted array:\n");
