@@ -152,3 +152,35 @@ ___________________________________________________________
   Ascii-
   A-65  ->    Z-90
   a-97  ->    z-122
+  ______________________________________________________________________________________________________________________________________________
+  Date : 2/9/2025
+  conditional statements
+  looping statements
+  Array-linear search
+  traversing,declaration,initialization
+  _______________________________________________________________________________________________________________________________________________
+  Date :9-9-2025
+  https://docs.google.com/document/d/1HL0JW6-7FcwjdBLFPWzrfXZjIAGUx4N4SGh3PuLxTUI/preview?tab=t.0#
+  question 1-Sorting array:BUbble sort
+  question 2-input:Arr[]={12,18,45,9,23,90,11,3,5,7};
+  					Target=101
+	   				sum of adjacency elements equal to target	`
+  question 3-input array a b 
+  			 output-indexes of b subset of a
+  question 4-Find ?
+1. Palindrome Array 
+2. Sum of Evens in array
+3. Max sum of sub array : 
+
+		12 + 4 = 16  [ 0 , 1]
+		4 + 5 = 9
+ 		5 + 4 = 9
+		4 + 12 = 16  [3, 4]
+
+Output : 
+	True
+         32
+         0 1
+         3 4
+Selection sort:
+_______________________________________________________________________________________________________________________________________________
