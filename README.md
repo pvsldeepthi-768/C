@@ -184,3 +184,10 @@ Output :
          3 4
 Selection sort:
 _______________________________________________________________________________________________________________________________________________
+date:23-09-2025
+functions-`functions are implemented the block of code separetly with executional logic from the main block of code`
+even oddprogram
+pyramid program
+
+2d array: are build with rows and columns by combinationof id matrices.
+maxSum Row
