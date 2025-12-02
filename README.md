@@ -191,3 +191,37 @@ pyramid program
 
 2d array: are build with rows and columns by combinationof id matrices.
 maxSum Row
+_________________________________________________________________________________________________________________________________________________________
+Date:2-12-2025
+
+an array arr[]={ 23,06,56,13,8,45};
+1.count even numbers
+ if count>=2 print first element
+2.count of elements greater than mid element >=3
+ print position of the count GMCE
+3.if first is equal to 4 th position
+ print last element of array
+4. if all are false then
+ print entire array.
+program:arrayPractice1.c
+
+problem -2:
+swap first and last letters of each word
+Input :{"AIML","EDC","WERE',"ADA","BD","E","K"};
+output:
+Input array:{'AIML',	'EDC',	'WERE',	'ADA',	'BD',	'E',	'K',	}
+Output array:{'LIMA',	'CDE',	'EERW',	'ADA',	'DB',	'E',	'K',	}
+program:arrayPractice2.c
+
+problem -3:
+print next greatest number if last element then print -1
+Input: {4,5,2,25}
+Output:{5,25,25,-1}
+program: StackNextGreatest.c
+
+problem -4:
+input:{12,4,34,234,12,443,123,1,3,2};
+if any even or even positions ele found add to ESUM
+IF Odd or ODD POSTION PRODUCT TO OPRO
+ESUM=12+34+12+4+234+2=
+OPRO=
